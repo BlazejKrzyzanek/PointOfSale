@@ -1,6 +1,8 @@
 # Point Of Sale
 Sample task for Java Developer candidate
 
+![](https://s10.ifotos.pl/img/Bez-nazwy_qwqrews.jpg "Window")
+
 Implement a simple point of sale.
 
 <b>Assume you have:</b>
