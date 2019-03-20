@@ -1,6 +1,8 @@
 # Point Of Sale
 Sample task for Java Developer candidate
 
+<em>Barcodes existing in database: 999999000 - 999999999</em>
+
 ![](https://s10.ifotos.pl/img/Bez-nazwy_qwqrews.jpg "Window")
 
 Implement a simple point of sale.
