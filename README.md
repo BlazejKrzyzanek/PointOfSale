@@ -4,7 +4,7 @@ Sample task for Java Developer candidate
 Implement a simple point of sale.
 
 <b>Assume you have:</b>
- - one input device: bar codes scanner \newline
+ - one input device: bar codes scanner
  - two output devices: LCD display and printer
  
 <b>Implement:</b>
